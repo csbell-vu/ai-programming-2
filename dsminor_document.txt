@@ -1,0 +1,31 @@
+DS 3850 Undergraduate Research in Data Science
+Students and their faculty sponsors must complete a Contract for Registration for Research in Data Science and have it signed by the Director of Undergraduate Data Science. This can be done through using the Individual Study form available through YES.
+
+About DS 3850
+DS 3850 allows students to pursue undergraduate research or individualized study in their areas of interest for academic course credit, with a substantive focus on applying data science tools and techniques for problem-solving. Undergraduates interested in data science are encouraged to seek out opportunities to participate in ongoing research projects at Vanderbilt during the academic year or over the summer. This allows students to leverage data science skills learned in the classroom and apply these skills in self-driven, real-world research. Enrolling in DS 3850 Undergraduate Research in Data Science can be used towards the DS Minor elective requirement, and can fulfill this requirement if 3 credit hours are taken for the course.
+
+Alternately, research in data science can be an excellent Immersion Experience for undergraduates at Vanderbilt (see Research Immersion in Data Science page maintained by the DSI).
+
+Requirements for DS 3850
+As an interdisciplinary minor, the proposal requirements for DS 3850 somewhat differ from requirements for independent study in other disciplines. Primarily, the individual study should be primarily targeted towards enriching understanding, creating discovery, or further delving into data science techniques. Practically, this means that some research explorations though using statistical analysis and data are better suited to independent study in the discipline.
+
+To qualify as research towards the data science minor, the project must involve:
+
+(1) development, evolution, or implementation of data science methods
+(2) application of data science to one or more fields in the physical, life, or social sciences, engineering, arts, or humanities, or
+(3) study impact of data on society and its institutions.
+Enrolling in DS 3850
+Students wishing to take DS 3850 Undergraduate Research in Data Science must do the following:
+
+Identify a faculty sponsor. Undergraduates often find faculty sponsors from professors who have taught their courses, talks and seminars in their areas of interest, projects with the Data Science Institute, and surveying researcher interests through the VU website.
+The faculty sponsor should agree to advising you for DS 3850. Obtain permission to conduct research and enroll in the DS 3850 course from a faculty sponsor. Consult with the faculty sponsor well in advance of the course request period of registration for the semester in which the research is undertaken.
+Identify the project scope and ensure substantive work in data science. Work with the faculty sponsor to ensure that the proposed project combines data science tools and techniques with a substantive problem. Students (and their faculty sponsors) can talk with the Director of Undergraduate Data Science if there is uncertainty about what might or might not qualify for research towards the data science minor.
+Define the credit hours conferred for the research/independent study. Generally, 1 credit hour is equivalent to 3 hours of total work effort; then, a 3 credit hour course confers 9 hours of total work. Up to 3 credit hours of research is expected. For those exceeding 3 credit hours, more detailed explanation will need to be provided about the scope of work and evaluation.
+Create a written study plan and submit through YES. Make a written study plan detailing the nature of the project and the amount of credit and have it approved by the faculty sponsor and the Director of Undergraduate Data Science, submitting through the Individual Study Form on YES (instructions available through the Registrar’s Office). The written study form MUST minimally contain the following information or it will be returned for revision:
+A brief description the nature of the project (3-4 sentences)
+A description of the data science tools and techniques used and/or the data science issues addressed by the project
+A specification of the arrangements and frequency of meetings with the instructor
+The basis for determination of a final grade (i.e., please provide a specific and detailed description of how your faculty supervisor will evaluate your research).
+At this point, Director of the DS Minor will review the proposal for substantive data science applications to the target area. Proposers are encouraged to discuss data science scope with the DS Minor Director prior to submission.
+
+Following approval of the DS Minor Director, the student will be automatically enrolled in DS 3850 for the number of credit hours as agreed upon in the proposal.
